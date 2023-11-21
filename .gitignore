@@ -3,3 +3,6 @@
 ../.DS_Store
 
 ../venv/
+
+geo_export_chicago.shx
+geo_export_chicago.shp
