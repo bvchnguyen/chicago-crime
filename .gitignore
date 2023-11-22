@@ -4,6 +4,8 @@
 
 ../venv/
 
-geo_export_chicago.shx
-geo_export_chicago.shp
+# geo_export_chicago.shx
+# geo_export_chicago.shp
+geo_export*.*
+
 ChicagoCrime_cleaned.csv
